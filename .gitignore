@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.json
+!.github/**/*.json
+model.joblib
+train_output.txt
+.pytest_cache/
